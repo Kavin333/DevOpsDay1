@@ -1,0 +1,2 @@
+Git configurtion command
+git config --global user.name "Kavin333"
